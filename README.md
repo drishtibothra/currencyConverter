@@ -14,7 +14,7 @@ A simple, responsive Currency Converter web application built using **JavaScript
 
 - **Frontend:** HTML, JavaScript
 - **Styling:** Tailwind CSS
-- **API:** API used: https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/${currency}.json 
+- **API:** API used: https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/${currency}.json *(add the currency name instead of ${currency} in the API link)*
 
 ## How It Works
 
