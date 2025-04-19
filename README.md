@@ -14,7 +14,7 @@ A simple, responsive Currency Converter web application built using **JavaScript
 
 - **Frontend:** HTML, JavaScript
 - **Styling:** Tailwind CSS
-- **API:** Exchange rate API (like [exchangerate-api.com](https://www.exchangerate-api.com/) or [exchangeratesapi.io](https://exchangeratesapi.io/)) *(if applicable)*
+- **API:** API used: https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/${currency}.json 
 
 ## How It Works
 
